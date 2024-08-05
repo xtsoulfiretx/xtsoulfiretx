@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @xtsoulfiretx
 - 👀 I’m interested in Front End Development
 - 🌱 I’m currently learning React
-- 💞️ I’m looking to collaborate on any projects to help improve my programming knowledge 
-- 📫 You can reach me at https://v-a-lambrou.co.uk/
+- 💞️ I’m looking to collaborate on any projects to help improve my programming knowledge.
 
 <!---
 xtsoulfiretx/xtsoulfiretx is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
